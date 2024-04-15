@@ -18,7 +18,7 @@
     "dependencies": {
         "@babel/runtime": "^7.3.1",
         "@types/node": "^10.12.18",
-        "lodash": "^4.17.11",
+        "lodash": "^4.17.17",
         "swarm-js": "^0.1.39"
     },
     "devDependencies": {
